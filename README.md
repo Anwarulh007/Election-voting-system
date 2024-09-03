@@ -3,7 +3,8 @@
 **Project Overview**
 
 This project aims to develop a secure and efficient online voting system. It focuses on improving the fairness and transparency of the electoral process while reducing the effort and cost associated with traditional voting methods.
-<img src="https://img.olhardigital.com.br/wp-content/uploads/2020/11/20201116103408-scaled.jpg" alt="Online Election Voting System" style="width: auto; height: 50px;"/>
+
+<img src="https://img.olhardigital.com.br/wp-content/uploads/2020/11/20201116103408-scaled.jpg" alt="Online Election Voting System" style="width: auto; height: 200px;"/>
 
 **Key Features**
 
