@@ -1,9 +1,10 @@
-Election Voting System
-Project Overview:
+**Election Voting System**
+
+**Project Overview**
 
 This project aims to develop a secure and efficient online voting system. It focuses on improving the fairness and transparency of the electoral process while reducing the effort and cost associated with traditional voting methods.
 
-Key Features:
+**Key Features**
 
 Secure Authentication: Robust authentication mechanisms to protect against unauthorized access.
 Candidate Registration: Easy registration of candidates for elections.
@@ -13,26 +14,21 @@ Vote Counting: Accurate and transparent vote counting algorithms.
 Result Publication: Timely and reliable publication of election results.
 Modules and Functions:
 
-AdminPanel():
+**AdminPanel()**
 authenticateAdmin(): Authenticates the administrator's credentials.
 initiateNewElection(): Initiates a new election.
 saveElectionInfoInFile(): Saves election information to a file.
 saveCandidatesFiles(): Saves candidate information to files.
-VoterPanel():
+
+**VoterPanel()**
 getWinner(): Retrieves the winner of the election.
 
 Programming Language: C programming,File handling
 
-Output :
-![Election Voting System]("C:\Users\Anwarul\Downloads\o1.jpg")
-![Election Voting System](voting_system.png)
-![Election Voting System](voting_system.png)
-![Election Voting System](voting_system.png)
-
-Contributing:
+**Contributing**
 
 Contributions to this project are welcome! Please follow the guidelines outlined in the CONTRIBUTING.md file.
 
-License:
+**License**
 
 This project is licensed under the MIT License.   
