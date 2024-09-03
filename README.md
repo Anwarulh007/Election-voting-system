@@ -12,24 +12,29 @@ This project aims to develop a secure and efficient online voting system. It foc
   
 **Key Features**
 
-Secure Authentication: Robust authentication mechanisms to protect against unauthorized access.
-Candidate Registration: Easy registration of candidates for elections.
-Voter Verification: Secure verification of voter identities to prevent fraud.
-Online Voting: Convenient and accessible online voting process.
-Vote Counting: Accurate and transparent vote counting algorithms.
-Result Publication: Timely and reliable publication of election results.
-Modules and Functions:
+* Secure Authentication: Robust authentication mechanisms to protect against unauthorized access.
+* Candidate Registration: Easy registration of candidates for elections.
+* Voter Verification: Secure verification of voter identities to prevent fraud.
+* Online Voting: Convenient and accessible online voting process.
+* Vote Counting: Accurate and transparent vote counting algorithms.
+* Result Publication: Timely and reliable publication of election results.
+
+
+**Modules and Functions**
 
 **AdminPanel()**
-authenticateAdmin(): Authenticates the administrator's credentials.
-initiateNewElection(): Initiates a new election.
-saveElectionInfoInFile(): Saves election information to a file.
-saveCandidatesFiles(): Saves candidate information to files.
+
+* authenticateAdmin(): Authenticates the administrator's credentials.
+* initiateNewElection(): Initiates a new election.
+* saveElectionInfoInFile(): Saves election information to a file.
+* saveCandidatesFiles(): Saves candidate information to files.
 
 **VoterPanel()**
-getWinner(): Retrieves the winner of the election.
+* getWinner(): Retrieves the winner of the election.
 
-Programming Language: C programming,File handling
+**Technology**
+* C programming
+* File handling
 
 **Contributing**
 
